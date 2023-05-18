@@ -49,13 +49,21 @@ void main() {
   final o = -3;
 
   const p = 66;
+  const q = "word";
+  const r = 75.7;
+  const s = -38;
+  const t = false;
 
+  dynamic u = 24;
+  dynamic v = "dynamic";
+  dynamic w = 7.3;
+  dynamic x = -8;
+  dynamic y = true;
 
-
-
-
-
-
-
+  var ab = 99;
+  var bc = "variable";
+  var cd = 5.8;
+  var de = 0;
+  var ef = false;
 
 }
